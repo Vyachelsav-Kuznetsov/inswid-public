@@ -9,7 +9,7 @@
 ## Cloudflare Pages
 
 - Framework preset: `None`
-- Build command: оставить пустым
+- Build command: `exit 0`
 - Build output directory: `public`
 
 После публикации:
