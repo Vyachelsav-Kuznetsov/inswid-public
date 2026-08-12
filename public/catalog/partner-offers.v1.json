@@ -1,0 +1,883 @@
+{
+  "schemaVersion": 1,
+  "catalogVersion": "2026.08.11.1",
+  "updatedAt": "2026-08-11T00:00:00.000Z",
+  "offers": [
+    {
+      "insurerKey": "alfastrah",
+      "type": "osago",
+      "priceLabel": "Ориентир: 4 500-16 500 руб. в год",
+      "externalUrl": "https://www.alfastrah.ru/individuals/auto/osago/"
+    },
+    {
+      "insurerKey": "alfastrah",
+      "type": "kasko",
+      "priceLabel": "Ориентир: 38 000-190 000 руб. в год",
+      "externalUrl": "https://www.alfastrah.ru/individuals/auto/kasko/"
+    },
+    {
+      "insurerKey": "alfastrah",
+      "type": "home",
+      "priceLabel": "Ориентир: 2 500-18 000 руб. в год",
+      "externalUrl": "https://www.alfastrah.ru/individuals/housing/"
+    },
+    {
+      "insurerKey": "alfastrah",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: 0,12-0,45% от остатка долга в год",
+      "externalUrl": "https://www.alfastrah.ru/individuals/housing/mortgage/"
+    },
+    {
+      "insurerKey": "alfastrah",
+      "type": "travel",
+      "priceLabel": "Ориентир: 650-5 500 руб. за поездку",
+      "externalUrl": "https://www.alfastrah.ru/individuals/travel/vzr/"
+    },
+    {
+      "insurerKey": "alfastrah",
+      "type": "health",
+      "priceLabel": "Ориентир: 18 000-160 000 руб. в год",
+      "externalUrl": "https://www.alfastrah.ru/individuals/life/dms-online/calc/"
+    },
+    {
+      "insurerKey": "alfastrah",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: 1 200-14 000 руб. в год",
+      "externalUrl": "https://www.alfastrah.ru/individuals/life/"
+    },
+    {
+      "insurerKey": "alfastrah",
+      "type": "legal",
+      "priceLabel": "Ориентир: 3 000-18 000 руб. в год",
+      "externalUrl": "https://www.alfastrah.ru/individuals/"
+    },
+    {
+      "insurerKey": "ingos",
+      "type": "osago",
+      "priceLabel": "Ориентир: 4 800-17 500 руб. в год",
+      "externalUrl": "https://www.ingos.ru/auto/osago/"
+    },
+    {
+      "insurerKey": "ingos",
+      "type": "kasko",
+      "priceLabel": "Ориентир: 40 000-210 000 руб. в год",
+      "externalUrl": "https://www.ingos.ru/auto/kasko/"
+    },
+    {
+      "insurerKey": "ingos",
+      "type": "home",
+      "priceLabel": "Ориентир: 2 800-20 000 руб. в год",
+      "externalUrl": "https://www.ingos.ru/property/flat/"
+    },
+    {
+      "insurerKey": "ingos",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: 0,13-0,50% от остатка долга в год",
+      "externalUrl": "https://www.ingos.ru/mortgage/"
+    },
+    {
+      "insurerKey": "ingos",
+      "type": "travel",
+      "priceLabel": "Ориентир: 700-6 000 руб. за поездку",
+      "externalUrl": "https://www.ingos.ru/travel/"
+    },
+    {
+      "insurerKey": "ingos",
+      "type": "health",
+      "priceLabel": "Ориентир: 20 000-180 000 руб. в год",
+      "externalUrl": "https://www.ingos.ru/health/dms/"
+    },
+    {
+      "insurerKey": "ingos",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: 1 300-15 000 руб. в год",
+      "externalUrl": "https://www.ingos.ru/life/neschastnyj-sluchaj"
+    },
+    {
+      "insurerKey": "ingos",
+      "type": "legal",
+      "priceLabel": "Ориентир: 3 500-20 000 руб. в год",
+      "externalUrl": "https://www.ingos.ru/"
+    },
+    {
+      "insurerKey": "reso",
+      "type": "osago",
+      "priceLabel": "Ориентир: 4 700-17 000 руб. в год",
+      "externalUrl": "https://www.reso.ru/Online/"
+    },
+    {
+      "insurerKey": "reso",
+      "type": "kasko",
+      "priceLabel": "Ориентир: 36 000-185 000 руб. в год",
+      "externalUrl": "https://reso.ru/individual/auto/"
+    },
+    {
+      "insurerKey": "reso",
+      "type": "home",
+      "priceLabel": "Ориентир: 2 300-17 000 руб. в год",
+      "externalUrl": "https://reso.ru/individual/property/"
+    },
+    {
+      "insurerKey": "reso",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: 0,12-0,48% от остатка долга в год",
+      "externalUrl": "https://reso.ru/individual/property/ipoteka/"
+    },
+    {
+      "insurerKey": "reso",
+      "type": "travel",
+      "priceLabel": "Ориентир: 600-5 200 руб. за поездку",
+      "externalUrl": "https://www.reso.ru/"
+    },
+    {
+      "insurerKey": "reso",
+      "type": "health",
+      "priceLabel": "Ориентир: 16 000-140 000 руб. в год",
+      "externalUrl": "https://www.reso.ru/"
+    },
+    {
+      "insurerKey": "reso",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: 1 000-12 000 руб. в год",
+      "externalUrl": "https://www.reso.ru/"
+    },
+    {
+      "insurerKey": "reso",
+      "type": "legal",
+      "priceLabel": "Ориентир: 2 500-16 000 руб. в год",
+      "externalUrl": "https://www.reso.ru/"
+    },
+    {
+      "insurerKey": "vsk",
+      "type": "osago",
+      "priceLabel": "Ориентир: 4 600-16 800 руб. в год",
+      "externalUrl": "https://shop.vsk.ru/osago/"
+    },
+    {
+      "insurerKey": "vsk",
+      "type": "kasko",
+      "priceLabel": "Ориентир: 35 000-180 000 руб. в год",
+      "externalUrl": "https://www.vsk.ru/"
+    },
+    {
+      "insurerKey": "vsk",
+      "type": "home",
+      "priceLabel": "Ориентир: 2 400-18 500 руб. в год",
+      "externalUrl": "https://www.vsk.ru/klientam/imuschestvo"
+    },
+    {
+      "insurerKey": "vsk",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: 0,11-0,45% от остатка долга в год",
+      "externalUrl": "https://vsk.sddbk.ru/ipoteka/"
+    },
+    {
+      "insurerKey": "vsk",
+      "type": "travel",
+      "priceLabel": "Ориентир: 650-5 800 руб. за поездку",
+      "externalUrl": "https://www.vsk.ru/"
+    },
+    {
+      "insurerKey": "vsk",
+      "type": "health",
+      "priceLabel": "Ориентир: 17 000-150 000 руб. в год",
+      "externalUrl": "https://www.vsk.ru/"
+    },
+    {
+      "insurerKey": "vsk",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: 1 100-13 500 руб. в год",
+      "externalUrl": "https://www.vsk.ru/"
+    },
+    {
+      "insurerKey": "vsk",
+      "type": "legal",
+      "priceLabel": "Ориентир: 3 000-18 000 руб. в год",
+      "externalUrl": "https://www.vsk.ru/"
+    },
+    {
+      "insurerKey": "rgs",
+      "type": "osago",
+      "priceLabel": "Ориентир: 4 900-18 000 руб. в год",
+      "externalUrl": "https://www.rgs.ru/auto/osago"
+    },
+    {
+      "insurerKey": "rgs",
+      "type": "kasko",
+      "priceLabel": "Ориентир: 37 000-195 000 руб. в год",
+      "externalUrl": "https://www.rgs.ru/auto/ekasko"
+    },
+    {
+      "insurerKey": "rgs",
+      "type": "home",
+      "priceLabel": "Ориентир: 2 500-19 000 руб. в год",
+      "externalUrl": "https://www.rgs.ru/store"
+    },
+    {
+      "insurerKey": "rgs",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: 0,12-0,50% от остатка долга в год",
+      "externalUrl": "https://www.rgs.ru/store"
+    },
+    {
+      "insurerKey": "rgs",
+      "type": "travel",
+      "priceLabel": "Ориентир: 700-6 200 руб. за поездку",
+      "externalUrl": "https://www.rgs.ru/store"
+    },
+    {
+      "insurerKey": "rgs",
+      "type": "health",
+      "priceLabel": "Ориентир: 18 000-160 000 руб. в год",
+      "externalUrl": "https://www.rgs.ru/store"
+    },
+    {
+      "insurerKey": "rgs",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: 1 200-14 000 руб. в год",
+      "externalUrl": "https://www.rgs.ru/store"
+    },
+    {
+      "insurerKey": "rgs",
+      "type": "legal",
+      "priceLabel": "Ориентир: 2 500-17 000 руб. в год",
+      "externalUrl": "https://www.rgs.ru/"
+    },
+    {
+      "insurerKey": "sogaz",
+      "type": "osago",
+      "priceLabel": "Ориентир: 4 800-17 200 руб. в год",
+      "externalUrl": "https://www.sogaz.ru/auto/osago/"
+    },
+    {
+      "insurerKey": "sogaz",
+      "type": "kasko",
+      "priceLabel": "Ориентир: 42 000-220 000 руб. в год",
+      "externalUrl": "https://www.sogaz.ru/auto/kasko/"
+    },
+    {
+      "insurerKey": "sogaz",
+      "type": "home",
+      "priceLabel": "Ориентир: 2 700-20 000 руб. в год",
+      "externalUrl": "https://www.sogaz.ru/"
+    },
+    {
+      "insurerKey": "sogaz",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: 0,13-0,52% от остатка долга в год",
+      "externalUrl": "https://www.sogaz.ru/"
+    },
+    {
+      "insurerKey": "sogaz",
+      "type": "travel",
+      "priceLabel": "Ориентир: 700-6 000 руб. за поездку",
+      "externalUrl": "https://www.sogaz.ru/"
+    },
+    {
+      "insurerKey": "sogaz",
+      "type": "health",
+      "priceLabel": "Ориентир: 20 000-190 000 руб. в год",
+      "externalUrl": "https://www.sogaz.ru/"
+    },
+    {
+      "insurerKey": "sogaz",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: 1 300-15 000 руб. в год",
+      "externalUrl": "https://www.sogaz.ru/"
+    },
+    {
+      "insurerKey": "sogaz",
+      "type": "legal",
+      "priceLabel": "Ориентир: 3 500-20 000 руб. в год",
+      "externalUrl": "https://www.sogaz.ru/"
+    },
+    {
+      "insurerKey": "yugoria",
+      "type": "osago",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://ugsk.ru/"
+    },
+    {
+      "insurerKey": "yugoria",
+      "type": "kasko",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://ugsk.ru/"
+    },
+    {
+      "insurerKey": "yugoria",
+      "type": "home",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://ugsk.ru/"
+    },
+    {
+      "insurerKey": "yugoria",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://ugsk.ru/"
+    },
+    {
+      "insurerKey": "yugoria",
+      "type": "travel",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://ugsk.ru/"
+    },
+    {
+      "insurerKey": "yugoria",
+      "type": "health",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://ugsk.ru/"
+    },
+    {
+      "insurerKey": "yugoria",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://ugsk.ru/"
+    },
+    {
+      "insurerKey": "tinsurance",
+      "type": "osago",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.tbank.ru/insurance/osago/"
+    },
+    {
+      "insurerKey": "tinsurance",
+      "type": "kasko",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.tbank.ru/insurance/kasko/"
+    },
+    {
+      "insurerKey": "tinsurance",
+      "type": "home",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.tbank.ru/insurance/property/"
+    },
+    {
+      "insurerKey": "tinsurance",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.tbank.ru/insurance/mortgage/"
+    },
+    {
+      "insurerKey": "tinsurance",
+      "type": "travel",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.tbank.ru/insurance/"
+    },
+    {
+      "insurerKey": "tinsurance",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.tbank.ru/insurance/"
+    },
+    {
+      "insurerKey": "renins",
+      "type": "osago",
+      "priceLabel": "Ориентир: 4 500-16 900 руб. в год",
+      "externalUrl": "https://www.renins.ru/"
+    },
+    {
+      "insurerKey": "renins",
+      "type": "kasko",
+      "priceLabel": "Ориентир: 33 000-170 000 руб. в год",
+      "externalUrl": "https://www.renins.ru/"
+    },
+    {
+      "insurerKey": "renins",
+      "type": "home",
+      "priceLabel": "Ориентир: 2 200-17 500 руб. в год",
+      "externalUrl": "https://www.renins.ru/"
+    },
+    {
+      "insurerKey": "renins",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: 0,11-0,44% от остатка долга в год",
+      "externalUrl": "https://www.renins.ru/"
+    },
+    {
+      "insurerKey": "renins",
+      "type": "travel",
+      "priceLabel": "Ориентир: 550-5 100 руб. за поездку",
+      "externalUrl": "https://www.renins.ru/"
+    },
+    {
+      "insurerKey": "renins",
+      "type": "health",
+      "priceLabel": "Ориентир: 15 000-140 000 руб. в год",
+      "externalUrl": "https://www.renins.ru/"
+    },
+    {
+      "insurerKey": "renins",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: 900-12 000 руб. в год",
+      "externalUrl": "https://www.renins.ru/"
+    },
+    {
+      "insurerKey": "renins",
+      "type": "legal",
+      "priceLabel": "Ориентир: 2 500-16 000 руб. в год",
+      "externalUrl": "https://www.renins.ru/"
+    },
+    {
+      "insurerKey": "soglasie",
+      "type": "osago",
+      "priceLabel": "Ориентир: 4 700-17 400 руб. в год",
+      "externalUrl": "https://www.soglasie.ru/individuals/avto/osago/"
+    },
+    {
+      "insurerKey": "soglasie",
+      "type": "kasko",
+      "priceLabel": "Ориентир: 36 000-185 000 руб. в год",
+      "externalUrl": "https://www.soglasie.ru/individuals/avto/kasko/"
+    },
+    {
+      "insurerKey": "soglasie",
+      "type": "home",
+      "priceLabel": "Ориентир: 2 400-18 500 руб. в год",
+      "externalUrl": "https://www.soglasie.ru/individuals/nedvijimost/"
+    },
+    {
+      "insurerKey": "soglasie",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: 0,12-0,48% от остатка долга в год",
+      "externalUrl": "https://www.soglasie.ru/"
+    },
+    {
+      "insurerKey": "soglasie",
+      "type": "travel",
+      "priceLabel": "Ориентир: 650-5 700 руб. за поездку",
+      "externalUrl": "https://www.soglasie.ru/individuals/puteshestviya/"
+    },
+    {
+      "insurerKey": "soglasie",
+      "type": "health",
+      "priceLabel": "Ориентир: 17 000-150 000 руб. в год",
+      "externalUrl": "https://www.soglasie.ru/firm/strahovanie-sotrudnikov/dobrovolnoe-meditsinskoe-strakhovanie/"
+    },
+    {
+      "insurerKey": "soglasie",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: 1 100-13 000 руб. в год",
+      "externalUrl": "https://www.soglasie.ru/individuals/zdorovje/neschastnye-sluchai/"
+    },
+    {
+      "insurerKey": "soglasie",
+      "type": "legal",
+      "priceLabel": "Ориентир: 3 000-18 000 руб. в год",
+      "externalUrl": "https://www.soglasie.ru/"
+    },
+    {
+      "insurerKey": "astrovolga",
+      "type": "osago",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://astrovolga.ru/"
+    },
+    {
+      "insurerKey": "astrovolga",
+      "type": "kasko",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://astrovolga.ru/"
+    },
+    {
+      "insurerKey": "astrovolga",
+      "type": "home",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://astrovolga.ru/"
+    },
+    {
+      "insurerKey": "astrovolga",
+      "type": "travel",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://astrovolga.ru/"
+    },
+    {
+      "insurerKey": "astrovolga",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://astrovolga.ru/"
+    },
+    {
+      "insurerKey": "sber",
+      "type": "osago",
+      "priceLabel": "Ориентир: 4 400-16 000 руб. в год",
+      "externalUrl": "https://sberbankins.ru/products/osago/"
+    },
+    {
+      "insurerKey": "sber",
+      "type": "kasko",
+      "priceLabel": "Ориентир: 34 000-175 000 руб. в год",
+      "externalUrl": "https://sberbankins.ru/products/kasko/"
+    },
+    {
+      "insurerKey": "sber",
+      "type": "home",
+      "priceLabel": "Ориентир: 2 000-16 000 руб. в год",
+      "externalUrl": "https://sberbankins.ru/products/home-insurance-online/"
+    },
+    {
+      "insurerKey": "sber",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: 0,10-0,42% от остатка долга в год",
+      "externalUrl": "https://sberbankins.ru/"
+    },
+    {
+      "insurerKey": "sber",
+      "type": "travel",
+      "priceLabel": "Ориентир: 550-5 000 руб. за поездку",
+      "externalUrl": "https://sberbankins.ru/products/travel-online/"
+    },
+    {
+      "insurerKey": "sber",
+      "type": "health",
+      "priceLabel": "Ориентир: 15 000-130 000 руб. в год",
+      "externalUrl": "https://sberbankins.ru/products/dms/"
+    },
+    {
+      "insurerKey": "sber",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: 900-11 000 руб. в год",
+      "externalUrl": "https://sberbankins.ru/products/injury/"
+    },
+    {
+      "insurerKey": "sber",
+      "type": "legal",
+      "priceLabel": "Ориентир: 2 000-15 000 руб. в год",
+      "externalUrl": "https://sberbankins.ru/"
+    },
+    {
+      "insurerKey": "energogarant",
+      "type": "osago",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://energogarant.ru/car-insurance/"
+    },
+    {
+      "insurerKey": "energogarant",
+      "type": "kasko",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://energogarant.ru/car-insurance/"
+    },
+    {
+      "insurerKey": "energogarant",
+      "type": "home",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://energogarant.ru/products/"
+    },
+    {
+      "insurerKey": "energogarant",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://energogarant.ru/products/"
+    },
+    {
+      "insurerKey": "energogarant",
+      "type": "travel",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://energogarant.ru/products/"
+    },
+    {
+      "insurerKey": "energogarant",
+      "type": "health",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://energogarant.ru/products/"
+    },
+    {
+      "insurerKey": "energogarant",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://energogarant.ru/products/"
+    },
+    {
+      "insurerKey": "zetta",
+      "type": "osago",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://zetta-ins.com/"
+    },
+    {
+      "insurerKey": "zetta",
+      "type": "kasko",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://zetta-ins.com/"
+    },
+    {
+      "insurerKey": "zetta",
+      "type": "home",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://zetta-ins.com/"
+    },
+    {
+      "insurerKey": "zetta",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://zetta-ins.com/"
+    },
+    {
+      "insurerKey": "zetta",
+      "type": "travel",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://zetta-ins.com/calculators/vzr/"
+    },
+    {
+      "insurerKey": "zetta",
+      "type": "health",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://zetta-ins.com/"
+    },
+    {
+      "insurerKey": "zetta",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://zetta-ins.com/"
+    },
+    {
+      "insurerKey": "gelios",
+      "type": "osago",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.skgelios.ru/strahovye-produkty/strahovanie-avto/osago/"
+    },
+    {
+      "insurerKey": "gelios",
+      "type": "kasko",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.skgelios.ru/products/auto/kasko/"
+    },
+    {
+      "insurerKey": "gelios",
+      "type": "home",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.skgelios.ru/"
+    },
+    {
+      "insurerKey": "gelios",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.skgelios.ru/"
+    },
+    {
+      "insurerKey": "gelios",
+      "type": "travel",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.skgelios.ru/"
+    },
+    {
+      "insurerKey": "gelios",
+      "type": "health",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.skgelios.ru/"
+    },
+    {
+      "insurerKey": "gelios",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.skgelios.ru/"
+    },
+    {
+      "insurerKey": "maks",
+      "type": "osago",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.makc.ru/"
+    },
+    {
+      "insurerKey": "maks",
+      "type": "kasko",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.makc.ru/"
+    },
+    {
+      "insurerKey": "maks",
+      "type": "home",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.makc.ru/"
+    },
+    {
+      "insurerKey": "maks",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.makc.ru/"
+    },
+    {
+      "insurerKey": "maks",
+      "type": "travel",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.makc.ru/"
+    },
+    {
+      "insurerKey": "maks",
+      "type": "health",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.makc.ru/"
+    },
+    {
+      "insurerKey": "maks",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.makc.ru/"
+    },
+    {
+      "insurerKey": "sovcom",
+      "type": "osago",
+      "priceLabel": "Ориентир: 4 600-17 300 руб. в год",
+      "externalUrl": "https://sovcomins.ru/"
+    },
+    {
+      "insurerKey": "sovcom",
+      "type": "kasko",
+      "priceLabel": "Ориентир: 32 000-165 000 руб. в год",
+      "externalUrl": "https://sovcomins.ru/"
+    },
+    {
+      "insurerKey": "sovcom",
+      "type": "home",
+      "priceLabel": "Ориентир: 2 300-18 000 руб. в год",
+      "externalUrl": "https://sovcomins.ru/"
+    },
+    {
+      "insurerKey": "sovcom",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: 0,11-0,46% от остатка долга в год",
+      "externalUrl": "https://sovcomins.ru/"
+    },
+    {
+      "insurerKey": "sovcom",
+      "type": "travel",
+      "priceLabel": "Ориентир: 600-5 500 руб. за поездку",
+      "externalUrl": "https://sovcomins.ru/"
+    },
+    {
+      "insurerKey": "sovcom",
+      "type": "health",
+      "priceLabel": "Ориентир: 16 000-145 000 руб. в год",
+      "externalUrl": "https://sovcomins.ru/"
+    },
+    {
+      "insurerKey": "sovcom",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: 1 000-12 500 руб. в год",
+      "externalUrl": "https://sovcomins.ru/"
+    },
+    {
+      "insurerKey": "sovcom",
+      "type": "legal",
+      "priceLabel": "Ориентир: 2 500-17 000 руб. в год",
+      "externalUrl": "https://sovcomins.ru/"
+    },
+    {
+      "insurerKey": "absolut",
+      "type": "osago",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://e-osago.absolutins.ru/"
+    },
+    {
+      "insurerKey": "absolut",
+      "type": "kasko",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.absolutins.ru/"
+    },
+    {
+      "insurerKey": "absolut",
+      "type": "home",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.absolutins.ru/"
+    },
+    {
+      "insurerKey": "absolut",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://gis.absolutins.ru/"
+    },
+    {
+      "insurerKey": "absolut",
+      "type": "travel",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.absolutins.ru/"
+    },
+    {
+      "insurerKey": "absolut",
+      "type": "health",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.absolutins.ru/"
+    },
+    {
+      "insurerKey": "absolut",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://www.absolutins.ru/"
+    },
+    {
+      "insurerKey": "guide",
+      "type": "osago",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://gajde.ru/"
+    },
+    {
+      "insurerKey": "guide",
+      "type": "kasko",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://gajde.ru/"
+    },
+    {
+      "insurerKey": "guide",
+      "type": "home",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://gajde.ru/"
+    },
+    {
+      "insurerKey": "guide",
+      "type": "mortgage",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://gajde.ru/"
+    },
+    {
+      "insurerKey": "guide",
+      "type": "travel",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://gajde.ru/"
+    },
+    {
+      "insurerKey": "guide",
+      "type": "health",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://gajde.ru/"
+    },
+    {
+      "insurerKey": "guide",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://gajde.ru/"
+    },
+    {
+      "insurerKey": "euroins",
+      "type": "osago",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://euro-ins.ru/"
+    },
+    {
+      "insurerKey": "euroins",
+      "type": "kasko",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://euro-ins.ru/"
+    },
+    {
+      "insurerKey": "euroins",
+      "type": "home",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://euro-ins.ru/"
+    },
+    {
+      "insurerKey": "euroins",
+      "type": "travel",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://euro-ins.ru/"
+    },
+    {
+      "insurerKey": "euroins",
+      "type": "health",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://euro-ins.ru/"
+    },
+    {
+      "insurerKey": "euroins",
+      "type": "life_accident",
+      "priceLabel": "Ориентир: индивидуальный расчёт на сайте",
+      "externalUrl": "https://euro-ins.ru/"
+    }
+  ]
+}
