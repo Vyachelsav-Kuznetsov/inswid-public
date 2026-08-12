@@ -4,18 +4,23 @@
 
 - `public/index.html` — политика конфиденциальности;
 - `public/catalog/partner-offers.v1.json` — удалённый каталог ценовых ориентиров и ссылок страховщиков;
-- `public/_headers` — заголовки безопасности и правила кэширования Cloudflare Pages.
+- `public/_headers` — заголовки безопасности и правила кэширования Cloudflare Workers Static Assets;
+- `wrangler.jsonc` — конфигурация публикации статических файлов Cloudflare.
 
-## Cloudflare Pages
+## Cloudflare Workers
 
-- Framework preset: `None`
-- Build command: `exit 0`
-- Build output directory: `public`
+Репозиторий подключается к Cloudflare Workers Builds через GitHub.
+
+- Production branch: `main`
+- Build command: оставить пустым
+- Deploy command: `npx wrangler deploy`
+- Root directory: оставить пустым
+- Builds for non-production branches: выключить
 
 После публикации:
 
-- политика: `https://<project>.pages.dev/`
-- каталог: `https://<project>.pages.dev/catalog/partner-offers.v1.json`
+- политика: `https://inswid-public.<subdomain>.workers.dev/`
+- каталог: `https://inswid-public.<subdomain>.workers.dev/catalog/partner-offers.v1.json`
 
 ## Обновление каталога
 
